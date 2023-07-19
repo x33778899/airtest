@@ -1,0 +1,27 @@
+pip install --upgrade pip
+
+pip install airtest
+pip install poco
+
+pip install airtest_selenium
+pip install pynput
+pip install pytesseract
+pip install pyautogui
+pip install pillow
+pip install google-cloud-vision
+pip install Levenshtein
+pip install scikit-image
+pip install jellyfish
+pip install pyperclip
+pip install aiohttp
+pip install openpyxl	//讀取 Excel 文件
+
+
+
+pyenv versions
+
+
+pyenv global <version>
+
+
+python --version

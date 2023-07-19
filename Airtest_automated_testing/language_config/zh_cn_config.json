@@ -1,0 +1,197 @@
+[
+     {
+          "game_name": "777",
+          "mode": "1",
+          "game_directory": "CCC_JAVA"
+     },
+     {
+          "game_name": "仙境探宝",
+          "mode": "1",
+          "game_directory": "XJTB_JAVA"
+     },
+     {
+          "game_name": "抢庄三公",
+          "mode": "2",
+          "game_directory": "SG"
+     },
+     {
+          "game_name": "拍住三公",
+          "mode": "2",
+          "game_directory": "SG"
+     },
+     {
+          "game_name": "担任三公",
+          "mode": "2",
+          "game_directory": "SG"
+     },
+     {
+          "game_name": "罗马竞技场",
+          "mode": "1",
+          "game_directory": "LMJJC_JAVA"
+     },
+     {
+          "game_name": "超级王牌",
+          "mode": "1",
+          "game_directory": "CJWP_JAVA"
+     },
+     {
+          "game_name": "财神捕鱼",
+          "mode": "3",
+          "game_directory": "CSBY_JAVA"
+     },
+     {
+          "game_name": "人鱼传说",
+          "mode": "3",
+          "game_directory": "RYCS_JAVA"
+     },
+     {
+          "game_name": "金蟾捕鱼",
+          "mode": "3",
+          "game_directory": "JCBY_JAVA"
+     },
+     {
+          "game_name": "大运夺宝",
+          "mode": "1",
+          "game_directory": "DYDB_JAVA"
+     },
+     {
+          "game_name": "旺来",
+          "mode": "1",
+          "game_directory": "WL_JAVA"
+     },
+     {
+          "game_name": "宝石之星",
+          "mode": "1",
+          "game_directory": "BSZX_JAVA"
+     },
+     {
+          "game_name": "看三张抢庄牛牛",
+          "mode": "2",
+          "game_directory": "QZNN_KSZ"
+     },
+     {
+          "game_name": "龙虎斗",
+          "mode": "2",
+          "game_directory": "LHD"
+     },
+     {
+          "game_name": "二十一点",
+          "mode": "2",
+          "game_directory": "HJK"
+     },
+     {
+          "game_name": "红黑大战",
+          "mode": "2",
+          "game_directory": "HHDZ"
+     },
+     {
+          "game_name": "抢庄牛牛",
+          "mode": "2",
+          "game_directory": "QZNN"
+     },
+     {
+          "game_name": "通比牛牛",
+          "mode": "2",
+          "game_directory": "TBNN"
+     },
+     {
+          "game_name": "抢庄二八杠",
+          "mode": "2",
+          "game_directory": "EBG"
+     },
+     {
+          "game_name": "免佣百家乐",
+          "mode": "2",
+          "game_directory": "MYBJL"
+     },
+     {
+          "game_name": "死亡之书",
+          "mode": "1",
+          "game_directory": "SWZS_JAVA"
+     },
+     {
+          "game_name": "招财金猪",
+          "mode": "1",
+          "game_directory": "ZCJZ_JAVA"
+     },
+     {
+          "game_name": "三倍小丑",
+          "mode": "1",
+          "game_directory": "SBXC_JAVA"
+     },
+     {
+          "game_name": "龙龙龙",
+          "mode": "1",
+          "game_directory": "LLL_JAVA"
+     },
+     {
+          "game_name": "帝国荣耀",
+          "mode": "1",
+          "game_directory": "DGRY_JAVA"
+     },
+     {
+          "game_name": "神龙捕鱼",
+          "mode": "3",
+          "game_directory": "SLBY_JAVA"
+     },
+     {
+          "game_name": "貔貅开运",
+          "mode": "1",
+          "game_directory": "PXKY_JAVA"
+     },
+     {
+          "game_name": "世足争霸",
+          "mode": "2",
+          "game_directory": "SZZB_JAVA"
+     },
+     {
+          "game_name": "圣诞任务",
+          "mode": "1",
+          "game_directory": "SDZW_JAVA"
+     },
+     {
+          "game_name": "麻将无双",
+          "mode": "1",
+          "game_directory": "MJWS_JAVA"
+     },
+     {
+          "game_name": "水牛",
+          "mode": "1",
+          "game_directory": "SN_JAVA"
+     },
+     {
+          "game_name": "新看四张抢庄牛牛",
+          "mode": "2",
+          "game_directory": "QZNN_K4Z"
+     },
+     {
+          "game_name": "百家乐",
+          "mode": "2",
+          "game_directory": "BJL"
+     },
+     {
+          "game_name": "百人牛牛",
+          "mode": "2",
+          "game_directory": "BRNN"
+     },
+     {
+          "game_name": "炸金花",
+          "mode": "2",
+          "game_directory": "ZJH"
+     },
+     {
+          "game_name": "超级百人牛牛",
+          "mode": "2",
+          "game_directory": "CJNN"
+     },
+     {
+          "game_name": "抢庄牌九",
+          "mode": "2",
+          "game_directory": "QZPJ"
+     },
+     {
+          "game_name": "癞子牛牛",
+          "mode": "2",
+          "game_directory": "LZNN"
+     }
+]
